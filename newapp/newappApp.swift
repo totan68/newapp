@@ -11,6 +11,9 @@ import SwiftUI
 struct newappApp: App {
     var body: some Scene {
         WindowGroup {
+            VStack{
+                
+            }
             ContentView()
         }
     }
